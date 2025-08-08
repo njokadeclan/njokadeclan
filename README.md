@@ -1,5 +1,6 @@
 👋 Hi, I’m Njoka Declan
-<img width="544" height="718" alt="aw" src="https://github.com/user-attachments/assets/d67769c4-552d-47d9-ad64-b3b2e51c0d06" />
+<img width="544" height="437" alt="aw" src="https://github.com/user-attachments/assets/00b11c2b-b81e-4626-8ef7-517d1b00baeb" />
+
 
 - 👀 Languages and tools:
 - <img width="945" height="151" alt="tools" src="https://github.com/user-attachments/assets/85e5e9ce-f116-4267-b0bb-507ae26cfc38" />
